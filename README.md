@@ -8,3 +8,5 @@ This python code attempts to do the following
 - makes use of ReLU and Softmax & cross entropy cost minimizing
 - achieves a score of up to 0.74 in kaggle
 - further research can be done based on this and the model can be improvised
+
+NOTE: Deep NN models are effective only with large data sets and "deep model" hierarchies. This is just a sample model built to show how to do it in tensorflow to start with. 
